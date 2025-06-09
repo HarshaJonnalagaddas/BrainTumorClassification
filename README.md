@@ -28,3 +28,17 @@ Classes:
 ```bash
 git clone https://github.com/HarshaJonnalagaddas/BrainTumorClassification.git
 cd BrainTumorClassification
+
+### Results:
+Training and Testing Validation Accuracy:
+![image](https://github.com/user-attachments/assets/38c22308-3eb5-43c0-acf1-a45dd04fad7f)
+Confusion Matrix:
+![image](https://github.com/user-attachments/assets/81db2940-35b7-4d91-8528-a4d24f336f8e)
+Prediction Images:
+![image](https://github.com/user-attachments/assets/da8fb11e-bd46-462d-bcbc-0576b53ab322)
+GradCAM Implementation:
+![image](https://github.com/user-attachments/assets/78aeb321-8b29-45fa-b2d8-7dba4d07ffea)
+
+
+
+
